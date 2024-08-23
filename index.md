@@ -1,3 +1,10 @@
+# Samuel Zhao's First CS193 Homework
+
+- I like that CS193 has no exams
+- I like that CS193 only has class once a week
+- I like that CS193 will teach me skills I will use in my career
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
